@@ -1,0 +1,96 @@
+# LyX 2.2.2 generated this file. If you want to make your own
+# modifications you should do them from inside LyX and save.
+
+Format 19
+
+
+#
+# MISC SECTION ######################################
+#
+
+\path_prefix "$LyXDir/bin;$LyXDir/Python;$LyXDir/Python/Lib;$LyXDir/Perl/bin;$LyXDir/imagemagick;E:/Softwares/Softwares Installations/MiKTeX/miktex/bin;E:/Softwares/Adobe Photoshp/Adobe Photoshop CC 2015;E:/Softwares/Softwares Installations/LyX/ghostscript/bin"
+\user_name "GalGr"
+\user_email ""
+\preview on
+
+#
+# SCREEN & FONTS SECTION ############################
+#
+
+\screen_zoom 320
+\screen_font_roman "LM Roman 10"
+\screen_font_sans "LM Sans 8"
+\screen_font_typewriter "Fira Code"
+\screen_font_sizes 5 7 8 9 10 12 14.4 17.26 20.74 24.88
+\single_instance false
+
+#
+# COLOR SECTION ###################################
+#
+
+\set_color "cursor" "#ffffff"
+\set_color "background" "#000000"
+\set_color "foreground" "#ffffff"
+\set_color "preview" "#393939"
+\set_color "note" "#555500"
+\set_color "notebg" "#4b4b00"
+\set_color "commentbg" "#a0756e"
+\set_color "greyedoutbg" "#232120"
+\set_color "graphicsbg" "#5b5754"
+\set_color "math" "#0ab5f3"
+\set_color "mathbg" "#000000"
+\set_color "mathmacrobg" "#000000"
+\set_color "mathcorners" "#4a4746"
+\set_color "tabularline" "#3b3b3b"
+\set_color "bottomarea" "#090909"
+\set_color "buttonframe" "#bfb7ae"
+
+#
+# PRINTER SECTION ###################################
+#
+
+
+#
+# TEX SECTION #######################################
+#
+
+
+#
+# FILE SECTION ######################################
+#
+
+
+#
+# PLAIN TEXT EXPORT SECTION ##############################
+#
+
+
+#
+# SPELLCHECKER SECTION ##############################
+#
+
+
+#
+# LANGUAGE SUPPORT SECTION ##########################
+#
+
+
+#
+# 2nd MISC SUPPORT SECTION ##########################
+#
+
+
+#
+# FORMATS SECTION ##########################
+#
+
+
+#
+# CONVERTERS SECTION ##########################
+#
+
+
+#
+# COPIERS SECTION ##########################
+#
+
